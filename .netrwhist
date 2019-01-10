@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/asun/codes/operation/config'
+let g:netrw_dirhist_2='/home/asun/codes/operation/config/dzsq1'
+let g:netrw_dirhist_3='/opt/version/20181010/redshift/implement'
+let g:netrw_dirhist_4='/public/fix/starfleet/xml'
